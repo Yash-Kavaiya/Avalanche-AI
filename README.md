@@ -2,6 +2,7 @@
 
 **Next-Generation Blockchain Intelligence & DeFi Analytics**  
 *Powered by Advanced AI Technology*
+
 <img width="512" height="768" alt="image" src="https://github.com/user-attachments/assets/9c26a029-27a2-498f-ba6d-f386e2bbcc92" />
 
 ## 📋 Table of Contents
