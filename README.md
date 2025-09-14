@@ -3,10 +3,6 @@
 **Next-Generation Blockchain Intelligence & DeFi Analytics**  
 *Powered by Advanced AI Technology*
 
-[![License: MIT](https://img.shields.://opensource.org/licenses/MIT/badge/React-18.2.0-blue.(https://img.shields.io![Avalanche](https://img.shields.io/badge/Avalanche-Blockchain Blockchain Solutions** by [Easy AI Labs](https://easy-ai-labs.lovable.app) | Built by [Yash Kavaiya](https://linkedin.com/in/yashkavaiya) - Gen AI Guru
-
-***
-
 ## 📋 Table of Contents
 
 - [🎯 Platform Overview](#-platform-overview)
